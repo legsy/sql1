@@ -1,0 +1,18 @@
+{
+  "name": "sql1",
+  "version": "1.0.0",
+  "description": "interaction with sql server",
+  "main": "threads.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "sql"
+  ],
+  "author": "alex lipatnikov",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^4.1.0",
+    "webworker-threads": "^0.7.13"
+  }
+}
